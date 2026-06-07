@@ -23,5 +23,8 @@ cs-homelab/
 ├── monitoring/
 ├── programming/
 ├── diagrams/
-└── resources/
+└── resources/ 
+    └── security-plus/
+        └── lab-notes/ 
+            
 ```
